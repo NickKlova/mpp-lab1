@@ -15,7 +15,7 @@ namespace task1.lang_with_go_to
 
             Console.WriteLine($"Input: {text}");
 
-            int N = 300;
+            int N = 10;
             int i = 0;
 
             string[] prohibitedValues = { "", "-", "no", "from", "the", "by", "and", "i", "in", "or", "any", "for", "to", "a", "\"", "of", "on", "at", "is", "\r", "\n", "\r\n", "\n\r"};
